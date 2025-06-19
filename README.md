@@ -15,7 +15,7 @@ Criar e editar um README profile.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)<br/>
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertoferrari&repo=gilbertoferrari&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gilbertoferrar/gilbertoferrari)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertoferrari&repo=gilbertoferrari&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gilbertoferrari/gilbertoferrari)
 
 ```git
 
