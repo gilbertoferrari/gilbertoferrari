@@ -1,4 +1,4 @@
-## Olá 👍
+## Hello' 👍 I'm a student learning every day.
 ## :octocat: Sobre mim
 Meu nome é **Gilberto Ferrari**<br/>
 Sou um iniciante em programação e estou atualmente realizando uma trilha de aprendizado, com o foco em desenvolvimento **back-end** usando a linguagem **Java**. Realizado pela<br/>
@@ -6,14 +6,17 @@ Sou um iniciante em programação e estou atualmente realizando uma trilha de ap
 <div align="center"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">Digital Innovation One</div>
 
 ## :thinking: Objetivo
-Usar os principais comandos do Git.<br/>
-Aprender o básico sobre contribuição no GitHub.<br/>
+Usar as principais linguagens de programação e suas ferramentas.<br/>
+Aprender sobre contribuição no GitHub e aplicar versionamento de codigo.<br/>
 Criar e editar um README profile.
 
 ## ⚙️ Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)<br/>
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+## ⚙️ OS
+[![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)](https://www.debian.org/)<br/>
 
 ## Principais comandos git
 
