@@ -24,6 +24,10 @@ Criar e editar um README profile.
 ***git add***<br/>
 ***git commit***<br/>
 
+#### Here's a useful Java code snippet
+[👉 How to use Record](https://gist.github.com/gilbertoferrari/c4498febae5ccf7270f9ff279bc777a4)  
+[👉 HelloWorld](https://gist.github.com/gilbertoferrari/98b6aa4a28bc15d692a3561b6143e3da)  
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertoferrari&repo=gilbertoferrari&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gilbertoferrari/gilbertoferrari)
 
 #### Clone usando web URL.
