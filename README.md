@@ -11,12 +11,18 @@ Aprender sobre contribuição no GitHub e aplicar versionamento de codigo.<br/>
 Criar e editar um README profile.
 
 ## ⚙️ Ferramentas
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)   
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)<br/>
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## ⚙️ OS
-[![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)](https://www.debian.org/)<br/>
+![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)  
+[![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)](https://www.debian.org/)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ## Principais comandos git
 
