@@ -24,15 +24,20 @@ Criar e editar um README profile.
 [![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)](https://www.debian.org/)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-## Principais comandos git
+
+> [!NOTE]
+> Para enviar um repositório local ao GitHub usando a linha de comandos.  
+
+1. Crie um repositório no GitHub: </br>  Copie a URL do repositório (será usada no passo 4) </br></br>
+2. Inicie o Git no seu projeto local: </br>  Abra o Terminal ou o Git Bash e navegue até a pasta do seu projeto </br> Execute o comando para inicializar um repositório Git </br> `git init` </br></br>
+3. Adicione e faça o commit dos seus arquivos: </br> Adicione todos os arquivos do seu projeto ao "stage" (área de preparação) do Git: </br> `git add .` </br>  Crie o primeiro commit com uma mensagem descritiva</br>  `git commit -m "Mensagem do commit"`</br></br>
+4. Conecte seu repositório local ao repositório remoto: </br> `git remote add origin <URL_DO_REPOSITÓRIO>` </br></br>
+5. Envie todos os commits do seu branch local para o branch main (ou master) do repositório remoto: </br> `git push -u origin main` </br></br> 
+
+## Principais comandos Git  
+
 `git init: `  
-  Inicializa um novo repositório Git em um diretório existente ou cria um novo diretório e o inicializa como um repositório Git.  
-  
-`git clone: `  
-  Cria uma cópia de um repositório Git existente em um novo diretório, baixando todo o histórico e arquivos.  
-  
-`git status: `   
-  Exibe o status dos arquivos no diretório de trabalho, mostrando quais arquivos foram modificados, adicionados ou removidos desde o último commit.  
+  Inicializa um novo repositório Git em um diretório existente ou cria um novo diretório e o inicializa como um repositório Git.   
 
 `git add: `  
 Adiciona arquivos ao índice (staging area) para serem incluídos no próximo commit.  
@@ -45,6 +50,12 @@ Envia os commits locais para um repositório remoto, sincronizando as alteraçõ
 
 `git pull: `  
 Obtém as alterações mais recentes de um repositório remoto e as mescla com o repositório local.  
+
+`git clone: `  
+  Cria uma cópia de um repositório Git existente em um novo diretório, baixando todo o histórico e arquivos.  
+  
+`git status: `   
+  Exibe o status dos arquivos no diretório de trabalho, mostrando quais arquivos foram modificados, adicionados ou removidos desde o último commit. 
 
 `git branch: `  
 Lista, cria, renomeia ou exclui branches.  
