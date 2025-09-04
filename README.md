@@ -24,6 +24,19 @@ Criar e editar um README profile.
 [![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)](https://www.debian.org/)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
+<details>
+  <summary>HelloWorld.java</summary>
+  
+  ### Criando uma classe em Java
+  ```java
+  public class HelloWorld{
+	  public static void main(String[] args){
+		  System.out.println("Hello Obsidian!");
+	  }
+  }
+  ```
+</details>  
+
 
 > [!NOTE]
 > Para enviar um repositório local ao GitHub usando a linha de comandos.  
